@@ -109,6 +109,11 @@ header .navbar{
   margin-top: 0;
 }
 
+.footer .box-kittypryde{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+}
+
 
 
 
