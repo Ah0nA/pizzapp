@@ -1,9 +1,9 @@
 # ${1:Carols pizza village}
  this is a pizza ordering website that belongs to carols pizza village
 ## Installation
-
+a quick google search will take you to the website
 ## Usage
-TODO: Write usage instructions
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
