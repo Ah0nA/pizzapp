@@ -63,12 +63,12 @@ header .navbar{
 }
 
 .order form{
-  width: 100rem;
-  border-radius: 0.5rem;
+  width: 90rem;
+  border-radius: 0.6rem;
   border: 1rem solid black;
   background: cornsilk;
   padding: 2rem;
-  margin: 2% auto;
+  margin: 0% auto;
   justify-content: center;
 }
 
@@ -79,12 +79,12 @@ header .navbar{
 }
 
 .order form .inputBox .input{
-  width: 30%;
+  width: 20%;
 }
 
 .order form .inputBox .input span{
   display: block;
-  padding: 3rem 0;
+  padding: 1rem 0;
   color: cornsilk;
   font-size: 2rem;
 }
@@ -97,9 +97,11 @@ header .navbar{
   color: black;
   text-transform: none;
   margin-bottom: 1rem;
-  
-
+  width: 90%;
 }
+
+.order form .inputBox .input textarea{}
+
 
 
 
