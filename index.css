@@ -72,8 +72,9 @@ header .navbar{
 }
 
 .order form .inputBox{
-
+  display: flex;flex-wrap: wrap;
   
+
 }
 
 
