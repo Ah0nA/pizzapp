@@ -68,16 +68,32 @@ header .navbar{
   border: 1rem solid black;
   background: cornsilk;
   padding: 2rem;
-  margin: 0 auto;
+  margin: 2% auto;
+  justify-content: center;
 }
 
 .order form .inputBox{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+}
 
+.order form .inputBox .input{
+  width: 30%;
+}
+
+.order form .inputBox .input span{
+  display: block;
+  padding: 3rem 0;
+  color: cornsilk;
+  font-size: 2rem;
+}
+
+.order form .inputBox .input textarea{
+  
 
 }
+
 
 
 
