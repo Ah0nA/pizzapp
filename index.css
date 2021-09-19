@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;1,300&family=Oswald:wght@300;500&display=swap');
+
+*{
+    font-family: 'Nunito', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    transition: all .3s linear;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+
+}
+
+html{
+     font-size: 120%;
+     overflow-x: hidden;
+     scroll-behavior: smooth;
+     scroll-padding-top: 6rem;
+
+}
+
+header{
+     top: 0%;
+     left: 0;
+     right: 0;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 2rem 10%;
+     z-index: 1000;
+     box-shadow: black;
+
+}
+
+header .hulk{
+     color: olive;
+     font-size: 2.5rem;
+     font-weight: bolder;
+
+}
+
+header .navbar a{
+      font-size: 2.3rem;
+      border-radius: 6rem;
+      padding: 5rem 1.5rem;
+      color: olivedrab;
+
+}
+
+header .navbar a:hover{
+      color: snow;
+      background: olive;
+}
+
+header .navbar{
+  display: block;
+  padding: 2rem;
+  margin: 2rem;
+  font-size: 2rem;
+  background: rgb(253, 253, 17);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1000px){
+     html{
+       font-size: 60%;
+     }
+     header{
+     padding: 2rem 1rem;
+     }
+}
+@media(max-width:700px){
+    header .navbar{
+      top: 100%;
+      left: 0;
+      left: 0;
+      border-top:  3rem solid;
+      background: linen;
+      position: absolute;
+      padding: 2rem;
+ 
+
+
+    }
+}
+section{
+       padding: 4rem 20%;
+}
+
+section:nth-child(even){
+  background:whitesmoke
+}
+.home .home-container .kalel{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+  padding-top: 10rem;
+} 
+
+.home .home-container .kalel .content{
+  flex: 1 1 50rem;
+}
+
+.home .home-container .kalel .image{
+  flex:1 1 50rem ;
+}
+
+.home .home-container .kalel .image img{
+   width: 50%;
+}
+
+.home .home-container .kalel .content span{
+  color: olive;
+  font-size: 3rem;
+}
+
+.home .home-container .kalel .content h3{
+  color: black;
+  font-size: 4rem;
+}
+
+.home .home-container .kalel .content p{
+  color: darkslategray;
+  font-size: 2rem;
+  padding: 5rem 0;
+  line-height: 1;
+}
+
+.btn{
+  margin: 1rem;
+  display: inline-block;
+  font-size: 1.5rem;
+  color: gold;
+  background: black;
+  border-radius: 0.2rem;
+  padding: 1rem 7rem;
+  cursor: pointer;
+}
+
+.btn:hover{
+ background: forestgreen;
+ letter-spacing: 0.1rem;
+
+
+}
+
+
