@@ -1,7 +1,7 @@
-# ${1:Project Name}
-TODO: Write a project description
+# ${1:Carols pizza village}
+ this is a pizza ordering website that belongs to carols pizza village
 ## Installation
-TODO: Describe the installation process
+
 ## Usage
 TODO: Write usage instructions
 ## Contributing

@@ -121,7 +121,14 @@ header .navbar{
   color: black;
 }
 
-.footer .box-kittypryden .box
+.footer .box-kittypryden .box a{
+  display: block;
+  padding: 3rem;
+  font-size: 1.5rem;
+  color: lemonchiffon;
+
+
+}
 
 
 
