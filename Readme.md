@@ -11,8 +11,8 @@ a quick google search will take you to the website
 ## Contributing
 1.
 ## History
- carols pizza village was started in 1994 by Caroline Outa 
+ carols pizza village was started in 1994 by Caroline Outa. Its popularity spread because of the divine taste of their meat deluxe pizza. The past down recipies are a sworn family secret.
 ## Credits
-TODO: Write credits
+author
 ## License
 TODO: Write license
