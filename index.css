@@ -90,6 +90,13 @@ header .navbar{
 }
 
 .order form .inputBox .input textarea{
+  background: floralwhite;
+  padding: 0.1rem;
+  border-radius: 0.3rem;
+  font-size: 1.7rem;
+  color: black;
+  text-transform: none;
+  margin-bottom: 1rem;
   
 
 }
