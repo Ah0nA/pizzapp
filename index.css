@@ -112,7 +112,16 @@ header .navbar{
 .footer .box-kittypryde{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  gap: 2rem;
 }
+
+.footer .box-kittypryden .box{
+  padding: 4rem 0;
+  font-size: 3rem;
+  color: black;
+}
+
+.footer .box-kittypryden .box
 
 
 
